@@ -1,0 +1,28 @@
+/* .App {
+  text-align: center;
+} */
+
+.maincard{
+
+
+  width: 400px;
+  height: 500px;
+  margin-top: 60px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.card-header{
+
+
+  
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(27,173,159,1) 0%, #3a92e8 80%);
+}
+
+.todolist{
+background-color: #45B39D;
+
+
+}
